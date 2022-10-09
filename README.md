@@ -3,6 +3,10 @@
 ### APK Download Link
 - https://github.com/nicholasquisler/Unquote/raw/main/app/Unquote.apk
 
+### Preview
+![alt text](https://github.com/nicholasquisler/nicholasquisler.github.io/raw/main/images/Screenshot_20221008-224524_Unquote.jpg)
+![alt text](https://github.com/nicholasquisler/nicholasquisler.github.io/raw/main/images/Screenshot_20221008-224536_Unquote.jpg)
+
 ### About
 - This is an android app that shows a quote and users determine who actually said it.
 
